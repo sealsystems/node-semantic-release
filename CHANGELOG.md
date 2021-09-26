@@ -1,3 +1,10 @@
+## 4.3.7 (2021-09-26)
+
+### Chores
+
+
+Trigger release ([5ff4c21](https://github.com/sealsystems/node-semantic-release/commit/5ff4c21))
+
 ## 4.3.6 (2021-09-26)
 
 ### Chores
