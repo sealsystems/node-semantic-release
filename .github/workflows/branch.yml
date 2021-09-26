@@ -35,7 +35,7 @@ jobs:
         run: echo "NODE_VERSION=$(node --version)" >> $GITHUB_ENV
 
       - name: Cache Node.js modules
-        uses: actions/cache@v1
+        uses: actions/cache@v2
         env:
           cache-name: cache-node-modules
         with:
