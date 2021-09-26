@@ -1,3 +1,10 @@
+## 4.3.5 (2021-09-26)
+
+### Chores
+
+
+bump semantic-release from 17.4.2 to 17.4.4 ([8f6f370](https://github.com/sealsystems/node-semantic-release/commit/8f6f370))
+
 ## 4.3.4 (2021-04-27)
 
 ### Chores
