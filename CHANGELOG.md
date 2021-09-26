@@ -1,3 +1,26 @@
+## 4.3.6 (2021-09-26)
+
+### Chores
+
+
+bump [@semantic-release](https://github.com/semantic-release)/npm from 7.1.1 to 7.1.3 ([b527108](https://github.com/sealsystems/node-semantic-release/commit/b527108))
+
+## 4.3.5 (2021-09-26)
+
+### Chores
+
+
+bump semantic-release from 17.4.2 to 17.4.4 ([8f6f370](https://github.com/sealsystems/node-semantic-release/commit/8f6f370))
+
+## 4.3.4 (2021-04-27)
+
+### Chores
+
+
+Update dependencies ([4540175](https://github.com/sealsystems/node-semantic-release/commit/4540175))
+
+Update dependencies ([f0279db](https://github.com/sealsystems/node-semantic-release/commit/f0279db))
+
 ## 4.3.3 (2021-04-27)
 
 ### Chores
