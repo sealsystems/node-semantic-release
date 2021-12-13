@@ -1,3 +1,10 @@
+## 4.3.9 (2021-12-13)
+
+### Bug Fixes
+
+
+Remove no longer needed option ([39a3a87](https://github.com/sealsystems/node-semantic-release/commit/39a3a87))
+
 ## 4.3.8 (2021-12-13)
 
 ### Bug Fixes
