@@ -1,3 +1,10 @@
+## 4.3.8 (2021-12-13)
+
+### Bug Fixes
+
+
+Replace CIRCLE_BRANCH with GITHUB_REF ([b915ef4](https://github.com/sealsystems/node-semantic-release/commit/b915ef4))
+
 ## 4.3.7 (2021-09-26)
 
 ### Chores
