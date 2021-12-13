@@ -4,13 +4,7 @@
 
 const shell = require('shelljs');
 
-// eslint-disable-next-line no-process-env
-const branch = process.env['GITHUB_REF'].replace(/^refs\/heads\//, '');
-
-shell.echo('');
-shell.echo(`Starting release on branch ${branch}...`);
-shell.echo('');
-shell.exec(`semantic-release --branch ${branch} --color`, (code) => {
+shell.exec(`semantic-release --color`, (code) => {
   if (code !== 0) {
     // eslint-disable-next-line no-process-exit
     process.exit(1);
