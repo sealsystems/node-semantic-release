@@ -1,3 +1,10 @@
+## 4.3.10 (2022-02-04)
+
+### Chores
+
+
+Trigger release ([01e61a5](https://github.com/sealsystems/node-semantic-release/commit/01e61a5))
+
 ## 4.3.9 (2021-12-13)
 
 ### Bug Fixes
