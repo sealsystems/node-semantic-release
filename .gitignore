@@ -21,3 +21,13 @@ temp/
 # Misc
 *.stat
 *.log
+
+# VSCode
+.vscode/settings.json
+
+# IDEA
+.idea
+
+# dotenv files contain secrets, don't check them into git
+.env
+.env.*
