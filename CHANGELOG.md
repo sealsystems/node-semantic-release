@@ -1,3 +1,10 @@
+## 4.3.12 (2022-02-04)
+
+### Bug Fixes
+
+
+Re-add required files ([d09b4c8](https://github.com/sealsystems/node-semantic-release/commit/d09b4c8))
+
 ## 4.3.11 (2022-02-04)
 
 ### Chores
