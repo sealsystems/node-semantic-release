@@ -11,8 +11,8 @@
     "shelljs": "0.8.4"
   },
   "devDependencies": {
-    "@sealsystems/eslint-config-es": "3.6.7",
-    "@sealsystems/mocha": "4.1.10"
+    "@sealsystems/eslint-config-es": "3.7.1",
+    "@sealsystems/mocha": "4.2.0"
   },
   "bin": {
     "release": "bin/release"
@@ -46,7 +46,6 @@
     "extends": "./node-module.js"
   },
   "publishConfig": {
-    "access": "public",
-    "registry": "https://npm.pkg.github.com"
+    "access": "public"
   }
 }

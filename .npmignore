@@ -4,6 +4,3 @@
 
 # Yeoman generators
 !/generators/**
-
-# Release types
-!*.js
