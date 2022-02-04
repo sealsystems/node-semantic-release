@@ -74,4 +74,4 @@ npm run release
 
 ## Implementation details
 
-**Please note:** This module is part of the build and release infrastructure. In order to prevent endless loops when automatically updating dependencies, Dependabot is not enabled
+**Please note:** If you add new JavaScript files to the root folder (or any other than the `lib` folder), you have to update the [.npmignore template](https://github.com/sealsystems/generator-seal-node/blob/master/lib/tasks/oss-module/update/templates/_npmignore) in `generator-seal-node`.
