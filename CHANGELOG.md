@@ -1,3 +1,10 @@
+## 4.3.11 (2022-02-04)
+
+### Chores
+
+
+bump shelljs from 0.8.4 to 0.8.5 ([cac4190](https://github.com/sealsystems/node-semantic-release/commit/cac4190))
+
 ## 4.3.10 (2022-02-04)
 
 ### Chores
