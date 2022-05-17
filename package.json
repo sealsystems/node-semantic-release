@@ -11,7 +11,7 @@
     "shelljs": "0.8.5"
   },
   "devDependencies": {
-    "@sealsystems/eslint-config-es": "3.7.6",
+    "@sealsystems/eslint-config-es": "3.7.7",
     "@sealsystems/mocha": "4.2.3"
   },
   "bin": {
