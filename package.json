@@ -3,7 +3,7 @@
   "version": "4.3.12",
   "description": "Semantic Release executable and configuration for SEAL Systems",
   "dependencies": {
-    "@semantic-release/changelog": "6.0.0",
+    "@semantic-release/changelog": "6.0.3",
     "@semantic-release/git": "10.0.0",
     "@semantic-release/npm": "8.0.0",
     "clone-deep": "4.0.1",
